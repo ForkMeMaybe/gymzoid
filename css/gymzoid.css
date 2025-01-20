@@ -17,7 +17,7 @@ header {
     background-image: linear-gradient(to right,
             rgba(0, 0, 0, 0.473),
             rgba(0, 0, 0, 0.495)),
-        url("/img/unfocused-gym-with-big-windows.jpg");
+        url("/gymzoid/img/unfocused-gym-with-big-windows.jpg");
     background-size: cover;
     background-position: center;
     margin-bottom: 10%;
@@ -205,7 +205,7 @@ header {
 }
 
 .schedule-sec-RHS-part {
-    background-image: url("/img/sec\(2\)1.jpg");
+    background-image: url("/gymzoid/img/sec\(2\)1.jpg");
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -306,19 +306,19 @@ header {
 }
 
 .fourth-section-img1 {
-    background-image: url("/img/sec\(4\)1.jpg");
+    background-image: url("/gymzoid/img/sec\(4\)1.jpg");
     background-position: center;
     background-size: cover;
 }
 
 .fourth-section-img2 {
-    background-image: url("/img/sec\(4\)2.jpg");
+    background-image: url("/gymzoid/img/sec\(4\)2.jpg");
     background-position: center;
     background-size: cover;
 }
 
 .fourth-section-img3 {
-    background-image: url("/img/sec\(4\)3.jpg");
+    background-image: url("/gymzoid/img/sec\(4\)3.jpg");
 }
 
 .fourth-sec-icons {
@@ -686,7 +686,7 @@ header {
     margin-top: 50px;
     border: none;
     padding-left: 20px;
-    background-image: url('/icon/location.png');
+    background-image: url('/gymzoid/icon/location.png');
     background-position: 325px 20.5px;
     background-repeat: no-repeat;
     outline: none;
