@@ -11,7 +11,7 @@ body {
 body {
 	margin: 0;
 	padding: 0;
-	overflow-x: hidden;
+	overflow-Linkx: hidden;
 	background-color: #c11325;
 }
 
@@ -22,18 +22,8 @@ body {
 	font-family: 'Oswald', sans-serif;
 }
 
-header {
-    height: 100vh;
-    /* background-image: linear-gradient(to right, */
-    /*         rgba(0, 0, 0, 0.473), */
-    /*         rgba(0, 0, 0, 0.495)), */
-    /*     url("/gymzoid/img/unfocused-gym-with-big-windows.jpg"); */
-    background-size: cover;
-    background-position: center;
-    margin-bottom: 10%;
-}
-
 .quick-contact {
+
     display: flex;
     justify-content: space-around;
     background-color: rgba(9, 9, 9, 0.909);
@@ -84,11 +74,12 @@ header {
 }
 
 .nav-btn {
-    background-color: rgb(212, 26, 26);
+    background-color: white; /* Set background color to white */
+    color: black; /* Set text color to black */
     padding: 23px 45px;
-    color: white;
     text-decoration: none;
 }
+
 
 .header-content {
     color: #fff;

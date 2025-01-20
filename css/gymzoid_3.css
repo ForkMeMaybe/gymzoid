@@ -73,11 +73,12 @@ body {
 }
 
 .nav-btn {
-    background-color: rgb(212, 26, 26);
+    background-color: white; /* Set background color to white */
+    color: black; /* Set text color to black */
     padding: 23px 45px;
-    color: white;
     text-decoration: none;
 }
+
 
 .header-content {
     color: #fff;
