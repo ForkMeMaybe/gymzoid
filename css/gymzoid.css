@@ -89,6 +89,13 @@ header {
 }
 
 .nav-btn {
+
+    .nav-btn {
+            background-color: rgb(212, 26, 26);
+                padding: 23px 45px;
+                    color: white;
+                        text-decoration: none;
+                    }
     background-color: rgb(212, 26, 26);
     padding: 23px 45px;
     color: white;

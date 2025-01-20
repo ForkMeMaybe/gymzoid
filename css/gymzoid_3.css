@@ -22,6 +22,78 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+.quick-contact {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(9, 9, 9, 0.909);
+    padding: 8px 0px 8px 0px;
+}
+
+.contact-type {
+    color: rgb(88, 86, 86)
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 20px;
+    border-bottom: 1px solid rgba(228, 225, 225, 0.705);
+}
+
+.logo-and-website-name {
+    display: flex;
+    border-right: 0.5px solid rgba(228, 225, 225, 0.705);
+    padding-right: 25px;
+}
+
+.header-logo {
+    height: 15vh;
+    width: 110px;
+}
+
+.website-name {
+    color: #fff;
+    -webkit-text-stroke-width: 2px;
+    font-size: 27px;
+    margin-top: 35px;
+}
+
+.nav-bar-list {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 700px;
+}
+
+.nav-bar-items {
+    text-decoration: none;
+    color: #fff;
+    transition: all .4s;
+}
+
+.nav-btn {
+    background-color: rgb(212, 26, 26);
+    padding: 23px 45px;
+    color: white;
+    text-decoration: none;
+}
+
+.header-content {
+    color: #fff;
+    transform: translate(200px, 100px);
+}
+
+.header-heading {
+    font-size: 70px
+}
+
+.header-heading-text {
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
 
 
 /*Service Section*/
